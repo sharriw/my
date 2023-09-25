@@ -1,0 +1,3 @@
+net use error 1219
+
+net stop lanmanworkstation ; net start lanmanworkstation ; net start netlogon ; net start sessionenv 
